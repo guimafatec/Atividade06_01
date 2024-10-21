@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Atividade06_01</string>
+    <string name="my_name">Gustavo Guimarães de Oliveira</string>
+    <string name="my_ra">1110482313013</string>
+    <string name="professor_titular">Professor Titular</string>
+    <string name="salario_inicial">Salário Inicial</string>
+    <string name="anos">Anos de Instituição</string>
+    <string name="professor_horista">Professor Horista</string>
+    <string name="hora_aula">Valor Hora Aula</string>
+    <string name="total_horas">Total Horas</string>
+    <string name="calcular">Calcular</string>
+</resources>
